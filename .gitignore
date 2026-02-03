@@ -1,0 +1,27 @@
+# Java compiled files
+bin/
+*.class
+target/
+
+# VS Code
+.vscode/
+!.vscode/settings.json
+
+# Sistema
+.DS_Store
+Thumbs.db
+*.log
+
+# IDE
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# Outros
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
